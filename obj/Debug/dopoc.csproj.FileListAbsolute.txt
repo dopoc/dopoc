@@ -1,0 +1,14 @@
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\bin\Debug\dopoc.exe.config
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\bin\Debug\dopoc.exe
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\bin\Debug\dopoc.pdb
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc.csprojResolveAssemblyReference.cache
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\MainWindow.g.cs
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\App.g.cs
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc_MarkupCompile.cache
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc_MarkupCompile.lref
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\MainWindow.baml
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc.g.resources
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc.Properties.Resources.resources
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc.csproj.GenerateResource.Cache
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc.exe
+c:\users\phipartners\documents\visual studio 2015\Projects\dopoc\dopoc\obj\Debug\dopoc.pdb
