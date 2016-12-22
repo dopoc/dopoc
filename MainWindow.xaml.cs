@@ -21,7 +21,7 @@ namespace dopoc
     public partial class MainWindow : Window
     {
         public MainWindow()
-        {  
+        {  //testing 12 3  
             InitializeComponent();   
         }
     }
