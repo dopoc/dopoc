@@ -22,7 +22,7 @@ namespace dopoc
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();   
         }
     }
 }
